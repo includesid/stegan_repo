@@ -4,4 +4,4 @@ Image Steganoghraphy App :
 the secret data is then extracted at its destination. In image steganography, the non secret file can be any jpeg or png image file.  `
 
 `Overall, in this project there is two app, one is encrypt.py app and another is decrypt.py app. Encrypt.py App will encrypt the code into the image and 
-decrypt.py App will decrypt the encrypted image file for fetching the encrypted message. You can use these two app by running the normal python command -` **python  filename.py**.
+decrypt.py App will decrypt the encrypted image file for fetching the encrypted message. You can use these two app by running the normal python command in terminal -` **python  filename.py**.
